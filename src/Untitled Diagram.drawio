@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T03:02:22.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="kNwgLdLgutBX0WIv76-C" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-23T12:34:05.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="aaoSSluki8Q-72qfVyx6" version="17.4.6" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
-    <mxGraphModel dx="3012" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1864" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1177,42 +1177,42 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TonSzCkgQjDLfo9d52V2-29">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TonSzCkgQjDLfo9d52V2-29" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-610" y="1210" as="targetPoint" />
+            <mxPoint x="340" y="1365" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-29" value="Phone book" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="1190" width="100" height="40" as="geometry" />
+        <mxCell id="TonSzCkgQjDLfo9d52V2-29" value="Phone book" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1345" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TonSzCkgQjDLfo9d52V2-30" target="TonSzCkgQjDLfo9d52V2-37">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TonSzCkgQjDLfo9d52V2-30" target="TonSzCkgQjDLfo9d52V2-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-30" value="DNS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="1260" width="100" height="40" as="geometry" />
+        <mxCell id="TonSzCkgQjDLfo9d52V2-30" value="DNS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1415" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TonSzCkgQjDLfo9d52V2-33" target="TonSzCkgQjDLfo9d52V2-34">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TonSzCkgQjDLfo9d52V2-33" target="TonSzCkgQjDLfo9d52V2-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-33" value="lookup the name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="1190" width="100" height="40" as="geometry" />
+        <mxCell id="TonSzCkgQjDLfo9d52V2-33" value="lookup the name" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1345" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-34" value="map to the phone number of that name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="1190" width="100" height="40" as="geometry" />
+        <mxCell id="TonSzCkgQjDLfo9d52V2-34" value="map to the phone number of that name" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="1345" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-36" value="resolve to IP address (numbers)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="1260" width="100" height="40" as="geometry" />
+        <mxCell id="TonSzCkgQjDLfo9d52V2-36" value="resolve to IP address (numbers)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="1415" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TonSzCkgQjDLfo9d52V2-37" target="TonSzCkgQjDLfo9d52V2-36">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TonSzCkgQjDLfo9d52V2-37" target="TonSzCkgQjDLfo9d52V2-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-37" value="lookup the name: Yahoo.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="1260" width="100" height="40" as="geometry" />
+        <mxCell id="TonSzCkgQjDLfo9d52V2-37" value="lookup the name: Yahoo.com" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1415" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-40" value="Domain name system/&lt;br&gt;Domain name service&lt;br&gt;resolve names to numbers&lt;br&gt;resolve domain name to I.P address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="1310" width="210" height="60" as="geometry" />
+        <mxCell id="TonSzCkgQjDLfo9d52V2-40" value="Domain name system/&lt;br&gt;Domain name service&lt;br&gt;resolve names to numbers&lt;br&gt;resolve domain name to I.P address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="1465" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TonSzCkgQjDLfo9d52V2-41" target="TonSzCkgQjDLfo9d52V2-43">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TonSzCkgQjDLfo9d52V2-41" target="TonSzCkgQjDLfo9d52V2-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-630" y="1540" />
@@ -1220,10 +1220,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-41" value="laptop-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-41" value="laptop-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-780" y="1520" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TonSzCkgQjDLfo9d52V2-42" target="TonSzCkgQjDLfo9d52V2-45">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TonSzCkgQjDLfo9d52V2-42" target="TonSzCkgQjDLfo9d52V2-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-725" y="1610" />
@@ -1231,13 +1231,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-42" value="&lt;span&gt;-&amp;gt;type &quot;yahoo.com&quot; &lt;br&gt;into web browser&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-42" value="&lt;span&gt;-&amp;gt;type &quot;yahoo.com&quot; &lt;br&gt;into web browser&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-800" y="1565" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-43" value="resolver server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-43" value="resolver server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-580" y="1520" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TonSzCkgQjDLfo9d52V2-45" target="TonSzCkgQjDLfo9d52V2-54">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TonSzCkgQjDLfo9d52V2-45" target="TonSzCkgQjDLfo9d52V2-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-630" y="1620" as="targetPoint" />
             <Array as="points">
@@ -1245,29 +1245,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-45" value="web browser or&lt;br&gt;&amp;nbsp;operating system &lt;br&gt;&lt;b&gt;cannot find the IP address &lt;/b&gt;&lt;br&gt;in its own cache memory,&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-45" value="web browser or&lt;br&gt;&amp;nbsp;operating system &lt;br&gt;&lt;b&gt;cannot find the IP address &lt;/b&gt;&lt;br&gt;in its own cache memory,&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-810" y="1630" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.461;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" target="TonSzCkgQjDLfo9d52V2-51" source="TonSzCkgQjDLfo9d52V2-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-529" y="1600" as="sourcePoint" />
             <mxPoint x="-529" y="1630" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-529" y="1610" />
-              <mxPoint x="-529" y="1610" />
+              <mxPoint x="-545" y="1601" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-47" value="resolver = ISP or &lt;br&gt;internet service provider&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-47" value="resolver = ISP or &lt;br&gt;internet service provider&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-610" y="1570" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-51" value="resolver received the query&lt;br&gt;will firstly check its own&amp;nbsp;&lt;br&gt;cache memory for IP address &lt;br&gt;of Yahoo.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-615" y="1630" width="170" height="60" as="geometry" />
+        <mxCell id="TonSzCkgQjDLfo9d52V2-51" value="resolver received the query&lt;br&gt;will firstly check its own&amp;nbsp;&lt;br&gt;cache memory for IP address &lt;br&gt;of Yahoo.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-630" y="1670" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-52" value="next level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-52" value="next level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-565" y="1490" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TonSzCkgQjDLfo9d52V2-54">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TonSzCkgQjDLfo9d52V2-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-635" y="1560" as="targetPoint" />
             <Array as="points">
@@ -1276,81 +1275,81 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-54" value="can&#39;t find" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-54" value="can&#39;t find" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-670" y="1590" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-60" value="next level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-60" value="next level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-65" y="1320" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-61" value="root server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-61" value="root server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-380" y="1320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-62" value="root server= the top or the root &lt;br&gt;of the DNS hierarchy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-62" value="root server= the top or the root &lt;br&gt;of the DNS hierarchy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-280" y="1280" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-65" value="send query to" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-65" value="send query to" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-670" y="1520" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-67" value="&lt;b&gt;13 sets &lt;/b&gt;of these root servers &lt;br&gt;strategically placed around the world&lt;br&gt;operated by 12 different organizations," style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-67" value="&lt;b&gt;13 sets &lt;/b&gt;of these root servers &lt;br&gt;strategically placed around the world&lt;br&gt;operated by 12 different organizations," style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-285" y="1310" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-69" value="&lt;b&gt;each set has their own unique I.P address&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-69" value="&lt;b&gt;each set has their own unique I.P address&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-290" y="1360" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-72" value="&amp;nbsp;TLD server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-72" value="&amp;nbsp;TLD server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-390" y="1560" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-73" value="Top level domain server&lt;br&gt;For .com domain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-73" value="Top level domain server&lt;br&gt;For .com domain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-260" y="1525" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-78" value="stores the address information &lt;br&gt;for top level domains&lt;br&gt;e.g: .com, .net, .org. etc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-78" value="stores the address information &lt;br&gt;for top level domains&lt;br&gt;e.g: .com, .net, .org. etc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-275" y="1560" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-81" value="&amp;nbsp;top level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-81" value="&amp;nbsp;top level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-60" y="1555" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-82" value="&amp;nbsp;Authoritative Name server" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-82" value="&amp;nbsp;Authoritative Name server" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-385" y="1774" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-83" value="last level/ &lt;br&gt;final authority" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-83" value="last level/ &lt;br&gt;final authority" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-90" y="1769" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-87" value="responsible for knowing &lt;br&gt;everything about the domain, &lt;br&gt;which includes IP address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-87" value="responsible for knowing &lt;br&gt;everything about the domain, &lt;br&gt;which includes IP address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-270" y="1759" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-90" value="direct you to&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TonSzCkgQjDLfo9d52V2-82" target="TonSzCkgQjDLfo9d52V2-43">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-90" value="direct you to&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="TonSzCkgQjDLfo9d52V2-82" target="TonSzCkgQjDLfo9d52V2-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-390" y="1870" as="sourcePoint" />
             <mxPoint x="-470" y="1870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-95" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="TonSzCkgQjDLfo9d52V2-61">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-95" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="TonSzCkgQjDLfo9d52V2-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-480" y="1539.5" as="sourcePoint" />
             <mxPoint x="-320" y="1539.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-96" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;send query to&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="TonSzCkgQjDLfo9d52V2-95">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-96" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;send query to&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="TonSzCkgQjDLfo9d52V2-95" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-98" value="direct you to TLD" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.392;exitY=1.035;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TonSzCkgQjDLfo9d52V2-61" target="TonSzCkgQjDLfo9d52V2-72">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-98" value="direct you to TLD" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.392;exitY=1.035;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TonSzCkgQjDLfo9d52V2-61" target="TonSzCkgQjDLfo9d52V2-72" edge="1">
           <mxGeometry x="0.0944" y="20" relative="1" as="geometry">
             <mxPoint x="-195" y="1730" as="sourcePoint" />
             <mxPoint x="-240" y="1550" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-99" value="direct you to ANS" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-99" value="direct you to ANS" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0473" relative="1" as="geometry">
             <mxPoint x="-339" y="1600" as="sourcePoint" />
             <mxPoint x="-339.2731930466604" y="1774" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-100" value="cannot find IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-100" value="cannot find IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-350" y="1620" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TonSzCkgQjDLfo9d52V2-101" value="cannot find IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TonSzCkgQjDLfo9d52V2-101" value="cannot find IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-350" y="1500" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
